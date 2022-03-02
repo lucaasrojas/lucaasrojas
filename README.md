@@ -8,7 +8,13 @@ Software Engineer at [Globant](https://www.globant.com/)
 function aboutMe() {
   return {
     code: [JavaScript, HTML, CSS, SASS, Python, Java, Bash],
-    tools: [React, Redux, Node, Docker, Jest, Enzyme, Styled-Components, AWS],
+    tools: [React, Redux, Next, Node, Docker, Jest, Enzyme, Styled-Components, AWS],
+    socials: [
+      {
+        platform: "LinkedIn",
+        link: "https://www.linkedin.com/in/lucaasrojas/"
+      }
+    ],
     education: {
       selfTaught: true,
       university: {
@@ -16,7 +22,19 @@ function aboutMe() {
         status: 'in-progress',
         name: 'Universidad Argentina de la Empresa'
       } 
-    }
+    },
+    projects: [
+      {
+        name: "Best Timer",
+        repository: "https://github.com/lucaasrojas/best-timer",
+        link: "https://lucaasrojas.github.io/best-timer/#/"
+      },
+      {
+        name: "Movies List",
+        repository: "https://github.com/lucaasrojas/shows-movies-list",
+        link: "https://lucaasrojas-movies-lists.netlify.app/"
+      }
+    ]
   }
 }
 ```
