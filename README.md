@@ -1,6 +1,6 @@
 # Hi stranger, I’m Lucas 👋
 
-Software Engineer at [Globant](https://www.globant.com/)
+ -- Frontend Developer --
 
 <!-- Linkedin Badge -->
 
@@ -18,7 +18,7 @@ Software Engineer at [Globant](https://www.globant.com/)
 | PDF to Excel | | [Repo](https://github.com/lucaasrojas/imagetoexcel)| 
 
 ## Technical Challenges 
-> Without maintance
+> Without maintenance
 
 
 | Challenge | Link |
