@@ -9,32 +9,28 @@
 ## Personal projects
 > All are WIP
 
-| Project |  | | 
+| Project | Live | Repo | 
 | ----------- | ----------- | ----------- |
 | Porfolio (HTML/CSS/JS) | [Netlify](https://lucasrojas.netlify.app) | [Repo](https://github.com/lucaasrojas/portfolio) | 
 | Share Your Wifi | [Netlify](https://lucaasrojas-share-wifi.netlify.app/) | [Repo](https://github.com/lucaasrojas/qrcode-wifi)| 
 | Best Timer | [Site](https://lucaasrojas.github.io/best-timer/#/) | [Repo](https://github.com/lucaasrojas/best-timer)| 
 | Expense Tracker | [Netlify](https://lucaasrojas-expense-tracker.netlify.app) | [Repo](https://github.com/lucaasrojas/expense-tracker)| 
 | PDF to Excel | | [Repo](https://github.com/lucaasrojas/imagetoexcel)| 
+| Wpp Me | [Netlify](https://wpp-me-lucaasrojas.netlify.app) | [Repo](https://github.com/lucaasrojas/wpp-link-generator)|
+| ThreeJS Portfolio | [Netlify](https://portfolio3d-lucaasrojas.netlify.app) | [Repo](https://github.com/lucaasrojas/threejs-portfolio)
 
 ## Technical Challenges 
 > Without maintenance
 
 
-| Challenge | Link |
-| ----------- | ----------- |
-| Eurekalabs | [Repo](https://github.com/lucaasrojas/eurekalabs-challenge) |
-| Crossmint Megaverse | [Repo](https://github.com/lucaasrojas/crossmint-megaverse-challenge) |
-| Pokedex | [Repo](https://github.com/lucaasrojas/pokedex) |
-| Movies App | [Repo](https://github.com/lucaasrojas/movies-app) |
-| Tactile | [Repo](https://github.com/lucaasrojas/tactile-interview-test) |
-| Movies List | [Repo](https://github.com/lucaasrojas/shows-movies-list)|
-| Wazuh Server | [Repo](https://github.com/lucaasrojas/Wazuh-Server) |
-| Wazuh Front | [Repo](https://github.com/lucaasrojas/Wazuh) |
-| Wazuh Challenge | [Repo](https://github.com/lucaasrojas/Wazuh-Challenege) |
-| Pipeline + Websockets | [Repo](https://github.com/lucaasrojas/pipeline-game) |
-| Range Slider from scratch | [Repo](https://github.com/lucaasrojas/pipeline-game) |
-| React Calculator | [Repo](https://github.com/lucaasrojas/React-Calculator) |
+| Challenge | Link | Live |
+| ----------- | ----------- | ----------- |
+| Pokedex | [Repo](https://github.com/lucaasrojas/pokedex) | |
+| Movies App | [Repo](https://github.com/lucaasrojas/movies-app) | |
+| Movies List | [Repo](https://github.com/lucaasrojas/shows-movies-list)| |
+| Range Slider from scratch | [Repo](https://github.com/lucaasrojas/pipeline-game) | |
+| React Calculator | [Repo](https://github.com/lucaasrojas/React-Calculator) | |
+| Rick And Morty | [Repo](https://github.com/lucaasrojas/rickandmorty) | [Netlify](https://rickandmorty-lucaasrojas.netlify.app) |
 
 ## Boilerplates
 
