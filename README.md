@@ -28,7 +28,8 @@ Let's drink a coffee and talk 🍵
 | PDF to Excel | | [Repo](https://github.com/lucaasrojas/imagetoexcel)| 
 | Wpp Me | [Netlify](https://wpp-me-lucaasrojas.netlify.app) | [Repo](https://github.com/lucaasrojas/wpp-link-generator)| [![Netlify Status](https://api.netlify.com/api/v1/badges/17188362-dd74-4f90-8045-1d1bff70ca8b/deploy-status)](https://app.netlify.com/sites/wpp-me-lucaasrojas/deploys) |
 | ThreeJS Portfolio | [Netlify](https://portfolio3d-lucaasrojas.netlify.app) | [Repo](https://github.com/lucaasrojas/threejs-portfolio) | [![Netlify Status](https://api.netlify.com/api/v1/badges/d67a8824-32b2-43c9-a6e8-cc8944cccc3a/deploy-status)](https://app.netlify.com/sites/portfolio3d-lucaasrojas/deploys)
-| Lorem Excuses | [Netlify]() | [Repo](https://github.com/lucaasrojas/lorem-excuses) |
+| Lorem Excuses | [NPM](https://www.npmjs.com/package/lorem-excuses) | [Repo](https://github.com/lucaasrojas/lorem-excuses) |
+| Excuses Generator | [Netlify](https://excuseme-lucaasrojas.netlify.app/) | [Repo](https://github.com/lucaasrojas/excuses-generator) | [![Netlify Status](https://api.netlify.com/api/v1/badges/58829463-787b-4459-8a18-8c40dd0c7fde/deploy-status)](https://app.netlify.com/sites/excuseme-lucaasrojas/deploys) | 
 | Image Blur Card | [NPM](https://www.npmjs.com/package/image-blur-card) | [Repo](https://github.com/lucaasrojas/image-blur-card) |
 
 
