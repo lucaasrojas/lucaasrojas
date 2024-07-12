@@ -21,7 +21,8 @@ Let's drink a coffee and talk 🍵
 
 | Project | Live | Repo | Status |
 | ----------- | ----------- | ----------- | ----------- |
-| Porfolio | [Netlify](https://lucasrojas.netlify.app) | [Repo](https://github.com/lucaasrojas/portfolio) | [![Netlify Status](https://api.netlify.com/api/v1/badges/0bf56658-635a-4bbc-bbfb-1bf4863a01e9/deploy-status)](https://app.netlify.com/sites/lucasrojas/deploys) |
+| Portfolio - NextJS| [Netlify](https://lucasrojas.netlify.app) | [Repo](https://github.com/lucaasrojas/portfolio-nextjs) | [![Netlify Status](https://api.netlify.com/api/v1/badges/0bf56658-635a-4bbc-bbfb-1bf4863a01e9/deploy-status)](https://app.netlify.com/sites/lucasrojas/deploys) |
+| Portfolio - HTML/CSS/JS | | [Repo](https://github.com/lucaasrojas/portfolio) | |
 | Share Your Wifi | [Netlify](https://lucaasrojas-share-wifi.netlify.app/) | [Repo](https://github.com/lucaasrojas/qrcode-wifi)| [![Netlify Status](https://api.netlify.com/api/v1/badges/5483036a-e93b-4c12-8240-8a6e22b6091f/deploy-status)](https://app.netlify.com/sites/lucaasrojas-share-wifi/deploys) |
 | Best Timer | [Site](https://lucaasrojas.github.io/best-timer/#/) | [Repo](https://github.com/lucaasrojas/best-timer)| [![Netlify Status](https://api.netlify.com/api/v1/badges/6355404b-9c5c-47fe-aca3-3d90357d7282/deploy-status)](https://app.netlify.com/sites/lucaasrojas-best-timer/deploys) |
 | Expense Tracker | [Netlify](https://lucaasrojas-expense-tracker.netlify.app) | [Repo](https://github.com/lucaasrojas/expense-tracker)| [![Netlify Status](https://api.netlify.com/api/v1/badges/680c0024-f5ef-457a-9d28-09cff5b67932/deploy-status)](https://app.netlify.com/sites/lucaasrojas-expense-tracker/deploys) |
